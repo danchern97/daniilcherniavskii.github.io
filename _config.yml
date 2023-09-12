@@ -10,7 +10,7 @@ locale: "en-US"
 title: "Daniil Cherniavskii"
 title_separator: "-"
 name: &name "Daniil Cherniavskii"
-description: &description "personal description"
+description: &description "PhD student in AI at QUVA lab"
 url: https://dcherniavskii.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "danchern97/daniilcherniavskii.github.io"
@@ -82,7 +82,7 @@ author:
   avatar: "profile.png"
   bio: "PhD student in AI @ QUVA lab"
   location: "Amsterdam, Netherlands"
-  employer: "University of Amsterdam"
+  employer:
   pubmed:
   googlescholar: "https://scholar.google.com/citations?hl=en&user=646PbvoAAAAJ"
   email: "m.d.cherniavskii@gmail.com"
